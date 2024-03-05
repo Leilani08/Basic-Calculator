@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+#container{
+    margin: 50px;
+    padding: 10px;
+    border: 2px solid rgb(255, 0, 106);
+    border-radius: 15px;
+    width: 600px;
+    height: 600px;
+    float: left;
+}
+#screen{
+    margin: 50px;
+    background-color: pink;
+    height: 100px;
+    width:500px;
+
+}
+#display{
+    color: blueviolet;
+    font-size: 50px;
+    text-align: center;
+
+}
+button{
+    width: 100px;
+    height: 50px;
+    border-radius: 5px;
+    margin: 15px;
+   
+}
+.botones{
+    margin-left: 25px;
+}
+#sheetPaper{
+    background-color: rgb(245, 245, 132);
+    width: 600px;
+    height: 600px;
+    border-radius: 0px 0px 50px 0px;
+    margin-top: 50px;
+    margin-right: 50px;
+    float: right;
+}
+#answer{
+    color: rgb(0, 0, 0);
+    font-size: 50px;
+    margin: 20px;
+    font-family:sans-serif;
+}
+#history{
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+}
+
